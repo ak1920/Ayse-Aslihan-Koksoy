@@ -7,7 +7,7 @@
 - 🌱 I’m addicted to learning and growing every day
 - ✨ I am currently working in Biomarker Clinical Trials, multiplexIF and Image Data Analysis projects
 - My links:
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/ayse_a_koksoy/)
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/ayse-a-koksoy/)
 
 
 [![Ayse Aslihan's github stats](https://github-readme-stats.vercel.app/api?username=ak1920&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
